@@ -107,7 +107,7 @@ h1{
 .card{
     transition: .5s;
     width: 310px;
-    height: 450px;
+    height: 390px;
     display:inline-block;
     margin: 20px;
     text-align: center;
@@ -146,27 +146,3 @@ h1{
     color: white;
     transition: .9s ease-in-out;
 }
-
-.role{
-    width: fit-content;
-    color: rgb(199, 199, 199);
-    font-family: sans-serif;
-    font-size: 18px;
-    margin: 15px;
-    margin-top: 20px;
-    float: left;
-}
-
-.card:hover .role{
-    color: rgb(212, 211, 211);
-    transition: .9s ease-in-out;
-}
-.olo{
-color: rgb(221, 125, 57);
-
-
-
-}
-
-
-
